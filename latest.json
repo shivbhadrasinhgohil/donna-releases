@@ -1,0 +1,11 @@
+{
+  "version": "0.15.4",
+  "notes": "- Today on the Overview: a reminder from yesterday that you answered today now reads \"Yesterday, 9:00 PM\" instead of a bare \"9:00 PM\" mixed in with today's times.\n- Next up shows a snoozed reminder's new time, and \"Tomorrow\" is right around midnight on a clock-change day.\n- Updates: Donna checks a second address for new versions if the first can't be reached.\n- Tidier code: the old Recent list, replaced by History in 0.14, is gone.",
+  "pub_date": "2026-10-29T07:22:11Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0J4dTNjZHBXY3lCaDIzVnpXSytyZnlrcDcyVEhJT3Vvcnh3akVpZGV3OGM0RGhtaVMxQnd1NEVCd1RvT2FuaU1vcjBEcm9Ybkp1d1lzYTNKcDJMNFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjU4NTI2CWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTUuNAo0WllFTjJFSFhOYmtrOTBPdmlPYVA1bVNwWEhCa1NFd0EzSkoraGszdkk0VXJpVXErejdNUkN1RlVYMjh5d0RIcmhwSUxhWHBKSlZqaHdPTDdSV1dBZz09Cg==",
+      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.15.4/Donna_0.15.4_aarch64.app.tar.gz"
+    }
+  }
+}
