@@ -1,11 +1,11 @@
 {
-  "version": "0.17.1",
-  "notes": "Donna's bubble sits beside her, and the Glass setting previews everywhere.\n\n- Donna's bubble now sits beside her head, as drawn, with its tail pointing at her. Near the right edge of the screen it moves to her other side, and the Later menu opens below the bubble instead of over her face.\n- Donna no longer jumps sideways when she stops walking in or starts walking off. Her walk-in is a little shorter, and after Done she walks off across the whole screen.\n- Dragging the Glass slider now updates the sidebar, the Settings window and Donna's bubble as you drag.\n- Quick Add reads what you type faster.",
-  "pub_date": "2026-11-02T08:07:06Z",
+  "version": "0.18.0",
+  "notes": "Donna wears a different colour every day.\n\n- Donna's dress and shoes change colour each day: teal, wine, navy, emerald, coral, mustard and plum. The colour never changes while she's on screen. Turn it off in Settings > Donna > New outfit every day.\n- The corner icon on Donna's bubble is gone. Click Donna to open the window.\n- Automatic update checks are now off by default. Turn them on in Settings > Updates, or use Check for updates.",
+  "pub_date": "2026-11-02T16:22:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ015b0RPdWdlbUw5T1lUdndSL0VTUXRYWXFCSmZnVG5NRnFFWkRHZ0xXcm9oQTdUSEdYd1FsRFd0M1JmN2JoSUdXWjZjdHFVcTMrMGJVWjFjc041MUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA2ODIyCWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTcuMQpOMStmdzROYmNPQ2p5OGY5bTA1UzVPT3hsbXpOTHVoWTlQZlJCUmhYdTdiOEhvTHhWOUl0ZlBWV1Y1MjAyTHJBM21uYVY1S0gzMWgvWHkvbHVWVk9Edz09Cg==",
-      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.17.1/Donna_0.17.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0RwcW1iM2UvV3JyNENrSURuVGR2bU45OXIxNlNFbHZHOC8rMWQ5OTcveDVhN3JkeGdKQTJ6Q0x4RjdxWlUvME13aThFY0JweElnN2RlNkh2bUNYVUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM2NTY0CWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTguMAo2Uksvc0QzTUpVaWpuQVhWMTVtOFBIOFgwejBHK0E0WXZlajR0MGllQTlTV09LQXAxeENXbDZUL1l3bThXbmlTQktRTFYrelJQSm45T2hoZlFrdXFEQT09Cg==",
+      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.18.0/Donna_0.18.0_aarch64.app.tar.gz"
     }
   }
 }
