@@ -1,11 +1,11 @@
 {
-  "version": "0.17.0",
-  "notes": "A new look: Apple's macOS design with Liquid Glass.\n\n- The window has a glass sidebar (Today, Reminders, Routines, History and your calendars) with the window buttons inside it, and a toolbar with Pause and New Reminder.\n- Today shows Donna's next question beside her face, with Mark as Done and Skip This One, then the rest of the day.\n- Reminders: type a reminder in plain words and see what Donna understood before you add it; Today and Tomorrow lists; each reminder's ⋯ menu has Edit, Snooze, Skip This One, Make It a Routine and Delete.\n- Settings now open in their own window (⌘,) with General, Donna, Notifications, Calendars and Updates.\n- New Glass setting (Settings > Donna): from Solid to Clear, with a live preview. Reduce transparency in macOS keeps everything solid.\n- Donna's bubble is real macOS glass, with Done and a Later menu (In 5 Minutes, In 10 Minutes, In 1 Hour, Skip Today).\n- The menu bar menu shows Donna's face and what's next, the time of the next reminder sits next to her icon, and Pause Donna has a new For 1 Hour choice.\n- Donna follows your Mac's light or dark appearance; the colour themes are retired.",
-  "pub_date": "2026-10-30T18:45:28Z",
+  "version": "0.17.1",
+  "notes": "Donna's bubble sits beside her, and the Glass setting previews everywhere.\n\n- Donna's bubble now sits beside her head, as drawn, with its tail pointing at her. Near the right edge of the screen it moves to her other side, and the Later menu opens below the bubble instead of over her face.\n- Donna no longer jumps sideways when she stops walking in or starts walking off. Her walk-in is a little shorter, and after Done she walks off across the whole screen.\n- Dragging the Glass slider now updates the sidebar, the Settings window and Donna's bubble as you drag.\n- Quick Add reads what you type faster.",
+  "pub_date": "2026-11-02T08:07:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0VPRzRkN3FmY1lTZmtBTkc0bCsxVVZQd3NzWHBOWnNxUkJZNm5DK1VwTkh3dDZGa20xcmZDTURwbkF2Q1NuckEvUEFkcy9sa0xBazl3WGYyRmNISGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg1OTIzCWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTcuMAppNjlneHVSSXpGZG1hQ01KWU5vZWZXNjhWaUpIVG1JUDFhcHNJSTR5eGxqR1djTEliUmM0S3BxOGpRUit1RzlOaDdPcXZyaVJ3cUxBYVpBWUttTzVEQT09Cg==",
-      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.17.0/Donna_0.17.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ015b0RPdWdlbUw5T1lUdndSL0VTUXRYWXFCSmZnVG5NRnFFWkRHZ0xXcm9oQTdUSEdYd1FsRFd0M1JmN2JoSUdXWjZjdHFVcTMrMGJVWjFjc041MUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA2ODIyCWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTcuMQpOMStmdzROYmNPQ2p5OGY5bTA1UzVPT3hsbXpOTHVoWTlQZlJCUmhYdTdiOEhvTHhWOUl0ZlBWV1Y1MjAyTHJBM21uYVY1S0gzMWgvWHkvbHVWVk9Edz09Cg==",
+      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.17.1/Donna_0.17.1_aarch64.app.tar.gz"
     }
   }
 }
