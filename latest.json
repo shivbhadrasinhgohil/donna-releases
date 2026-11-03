@@ -1,11 +1,11 @@
 {
-  "version": "0.18.0",
-  "notes": "Donna wears a different colour every day.\n\n- Donna's dress and shoes change colour each day: teal, wine, navy, emerald, coral, mustard and plum. The colour never changes while she's on screen. Turn it off in Settings > Donna > New outfit every day.\n- The corner icon on Donna's bubble is gone. Click Donna to open the window.\n- Automatic update checks are now off by default. Turn them on in Settings > Updates, or use Check for updates.",
-  "pub_date": "2026-11-02T16:22:49Z",
+  "version": "0.19.0",
+  "notes": "Donna has a new dress.\n\n- Donna now has a second dress, with flutter sleeves and a tie belt, and switches between the two dresses day by day. She keeps the same face and hair, and the daily colours apply to both. Settings > Donna > New outfit every day turns this off too.",
+  "pub_date": "2026-11-03T17:02:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0RwcW1iM2UvV3JyNENrSURuVGR2bU45OXIxNlNFbHZHOC8rMWQ5OTcveDVhN3JkeGdKQTJ6Q0x4RjdxWlUvME13aThFY0JweElnN2RlNkh2bUNYVUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM2NTY0CWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTguMAo2Uksvc0QzTUpVaWpuQVhWMTVtOFBIOFgwejBHK0E0WXZlajR0MGllQTlTV09LQXAxeENXbDZUL1l3bThXbmlTQktRTFYrelJQSm45T2hoZlFrdXFEQT09Cg==",
-      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.18.0/Donna_0.18.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0xKNmdoS0kzVG1PY0Y3eGVReGtoMEZ4Zi9uWHlmWlhiMG9SN3MwOVJ1TVhOMURJeGtYZUlMMk1qUDlrQWp2VVI5Mk1kOEM4ay9sODdwRVZNUDZoNEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI1MzMzCWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTkuMApQZ3FIWS9tblNDNGk1dU9HZVlxRytBODFqa2NhaXI2NHJLWUNSY2dXVlA5WUN4TjhRa0gxWG1FaS9HMmluREZqblhPR2cxTTdYbTNGMXNIUWNUazlBQT09Cg==",
+      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.19.0/Donna_0.19.0_aarch64.app.tar.gz"
     }
   }
 }
