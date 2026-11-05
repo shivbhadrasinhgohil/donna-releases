@@ -1,11 +1,11 @@
 {
-  "version": "0.19.0",
-  "notes": "Donna has a new dress.\n\n- Donna now has a second dress, with flutter sleeves and a tie belt, and switches between the two dresses day by day. She keeps the same face and hair, and the daily colours apply to both. Settings > Donna > New outfit every day turns this off too.",
-  "pub_date": "2026-11-03T17:02:17Z",
+  "version": "0.20.0",
+  "notes": "Donna can be blonde, and you can choose her outfit.\n\n- New in Settings > Donna > Hair and skin: Brunette or Blonde. Donna keeps the look you choose every day; the daily colours still apply. The blonde look comes in the sheath dress only for now.\n- With New outfit every day off, you can pick her dress and her colour, and she wears them every day.",
+  "pub_date": "2026-11-05T08:32:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0xKNmdoS0kzVG1PY0Y3eGVReGtoMEZ4Zi9uWHlmWlhiMG9SN3MwOVJ1TVhOMURJeGtYZUlMMk1qUDlrQWp2VVI5Mk1kOEM4ay9sODdwRVZNUDZoNEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzI1MzMzCWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMTkuMApQZ3FIWS9tblNDNGk1dU9HZVlxRytBODFqa2NhaXI2NHJLWUNSY2dXVlA5WUN4TjhRa0gxWG1FaS9HMmluREZqblhPR2cxTTdYbTNGMXNIUWNUazlBQT09Cg==",
-      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.19.0/Donna_0.19.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVTlsTGdLdU5tQ0lSZ3FTdUg5WTV3Mm0wTnZiMFdpVk9xOUNwTkxJRmQ4bVFpOXhjNSsvYlIxcG91YmdzMExaVExzKzRQQUhheHVORWtZbUFWVEZiRVNPeHNNRk1EcGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODY3NTM5CWZpbGU6RG9ubmEuYXBwLnRhci5negl2ZXJzaW9uOjAuMjAuMApZZXNGdG8vcmpqdWJlVHUrS0o2bW1TKzc4b2xlcUxKanMwNTNzczZqZFVkSFhlYi8wZWhYK1RXUko5ZDJHUzZadVRNbHZ2ejFicTlIZ1pxK09lNWxBZz09Cg==",
+      "url": "https://github.com/shivbhadrasinhgohil/donna-releases/releases/download/v0.20.0/Donna_0.20.0_aarch64.app.tar.gz"
     }
   }
 }
